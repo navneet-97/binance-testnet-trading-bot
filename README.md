@@ -5,26 +5,6 @@ Supports market, limit, and stop-limit orders with real-time data, account balan
 
 ---
 
-## 📋 Requirements
-
-### ✅ Python Requirements (`requirements.txt`)
-
-```
-python-binance==1.0.19
-argparse
-logging
-datetime
-typing
-```
-
-### ✅ System Requirements
-
-* Python 3.7 or higher
-* Internet connection
-* Binance Testnet account with API credentials
-
----
-
 ## 🚀 Setup Instructions
 
 ### 🔹 Step 1: Create Binance Testnet Account
