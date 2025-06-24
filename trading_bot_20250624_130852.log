@@ -1,0 +1,8 @@
+2025-06-24 13:08:52,788 - INFO - Trading bot initialized
+2025-06-24 13:08:52,788 - INFO - Testnet mode: True
+2025-06-24 13:08:53,773 - INFO - System status: {'status': 0, 'msg': 'normal'}
+2025-06-24 13:08:54,883 - INFO - Successfully connected to Binance Futures API
+2025-06-24 13:08:54,883 - INFO - Account balance: 14997.63534059 USDT
+2025-06-24 13:08:55,439 - INFO - Account balance retrieved: {'total_balance': '14997.63534059', 'available_balance': '14983.63761020', 'usdt_balance': '14997.63534059'}
+2025-06-24 13:09:03,220 - INFO - Retrieved 0 open orders
+2025-06-24 13:09:11,529 - INFO - Account balance retrieved: {'total_balance': '14997.63534059', 'available_balance': '14984.20778226', 'usdt_balance': '14997.63534059'}
